@@ -1,0 +1,7 @@
+Task : Rule Proposal
+
+Task : Get Rule List
+
+Task : Get Rule Details(ruleId)
+
+Task : Vote For Proposal(propasal hash)
